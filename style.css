@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    color: rgb(252, 23, 130);
+}
+button{
+    color: rgb(252, 23, 130);
+}
+.link_button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color:rgb(252, 23, 130);
+    border-radius: 5px;
+    color: white; 
+}
+
+.color_black{
+    color: black;
+}
+.Half-width{
+    width:33%;
+    height: 500px;
+    padding-left: 10%;
+    margin-top: 4%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+    float:left;
+    
+
+
+}
+.Half-width img{
+    width:100%;
+    
+}
+.Half-third-width{
+    width:18%;
+    height: 200px;
+    padding-left: 10%;
+    margin-top: 4%;
+    padding-right: 5%;
+    float:left;
+    
+ 
+}
+.Half-third-width img{
+    width:80%;
+}
+#position{
+    color: black;
+    text-align: center;
+    padding-top: 5%;
+    margin-top: 5%;
+}
+body{
+    margin: 0;
+}
+
+section{
+    height: 500px;
+}
+.Top_banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.mid_banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.bottom_banner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.footer_banner{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.Font_size{
+   font-size: xx-small;
+}
+.link_button_new{
+    text-decoration: none;
+    padding: 30px 55px;
+    background-color:rgb(252, 23, 130);
+    border-radius: 5px;
+    color: white;
+    
+    
+}
+
+.Half_height{
+    height: 300px;
+}
+footer p{
+    text-align: center;
+    font-size: x-small;
+    padding-bottom: 4%;
+}
